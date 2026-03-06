@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/d342784178/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.49:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 21:29:15
-url
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.22:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 21:46:55
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
+#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="http://10.1.0.22:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND

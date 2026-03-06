@@ -1,8 +1,11 @@
 🕘️更新时间,#genre#
-2026-03-06 21:29:15,url
+2026-03-06 21:46:55,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
 
 ☘️广东频道,#genre#
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8

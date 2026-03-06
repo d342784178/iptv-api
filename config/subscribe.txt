@@ -1,11 +1,18 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 https://live.fanmingming.com/tv/m3u/ipv6.m3u
+https://live.fanmingming.com/tv/m3u/ipv4.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u
+https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/hd.m3u
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
 [WHITELIST]
-# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
-# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
+# 以下是订阅源的白名单
+# This is the whitelist for subscription sources.

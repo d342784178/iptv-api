@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/d342784178/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.22:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 21:46:55
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="http://10.1.0.22:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="北京卫视" tvg-logo="http://10.1.0.22:5180/logo/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND
-#EXTINF:-1 tvg-id="4" tvg-name="广州综合" tvg-logo="http://10.1.0.22:5180/logo/广州综合.png" group-title="☘️广东频道",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://10.1.0.73:5180/logo/CCTV-1.png" group-title="🕘️更新时间",2026-03-06 22:30:24
+https://play-qukan.cztv.com/live/1746687519046362.m3u8$订阅源
+#EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="http://10.1.0.73:5180/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+https://play-qukan.cztv.com/live/1746687519046362.m3u8$订阅源
+#EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="http://10.1.0.73:5180/logo/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$订阅源
+#EXTINF:-1 tvg-id="4" tvg-name="河南卫视" tvg-logo="http://10.1.0.73:5180/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://1.94.31.214/php/hntv.php?id=hnws$订阅源
+#EXTINF:-1 tvg-id="5" tvg-name="宁夏卫视" tvg-logo="http://10.1.0.73:5180/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
+http://120.76.248.139/live/bfgd/4200000118.m3u8$订阅源
